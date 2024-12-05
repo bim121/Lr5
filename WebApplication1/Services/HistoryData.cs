@@ -8,6 +8,14 @@
         {
             new History { Id = 1, Description = "Event 1", Date = DateTime.Now },
             new History { Id = 2, Description = "Event 2", Date = DateTime.Now },
+            new History { Id = 3, Description = "Event 3", Date = DateTime.Now.AddDays(-1) },
+            new History { Id = 4, Description = "Event 4", Date = DateTime.Now.AddDays(-2) },
+            new History { Id = 5, Description = "Event 5", Date = DateTime.Now.AddDays(-3) },
+            new History { Id = 6, Description = "Event 6", Date = DateTime.Now.AddDays(-4) },
+            new History { Id = 7, Description = "Event 7", Date = DateTime.Now.AddDays(-5) },
+            new History { Id = 8, Description = "Event 8", Date = DateTime.Now.AddDays(-6) },
+            new History { Id = 9, Description = "Event 9", Date = DateTime.Now.AddDays(-7) },
+            new History { Id = 10, Description = "Event 10", Date = DateTime.Now.AddDays(-8) },
         };
     }
 

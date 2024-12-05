@@ -6,8 +6,16 @@
     {
         _productList = new List<Product>
         {
-            new Product { Id = 1, Name = "Product 1", Price = 100 },
-            new Product { Id = 2, Name = "Product 2", Price = 200 },
+             new Product { Id = 1, Name = "Product 1", Price = 100 },
+             new Product { Id = 2, Name = "Product 2", Price = 200 },
+             new Product { Id = 3, Name = "Product 3", Price = 150 },
+             new Product { Id = 4, Name = "Product 4", Price = 250 },
+             new Product { Id = 5, Name = "Product 5", Price = 300 },
+             new Product { Id = 6, Name = "Product 6", Price = 120 },
+             new Product { Id = 7, Name = "Product 7", Price = 180 },
+             new Product { Id = 8, Name = "Product 8", Price = 220 },
+             new Product { Id = 9, Name = "Product 9", Price = 270 },
+             new Product { Id = 10, Name = "Product 10", Price = 320 },
         };
     }
 

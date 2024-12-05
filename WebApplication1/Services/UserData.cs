@@ -8,6 +8,14 @@
         {
             new User { Id = 1, Name = "John", Age = 30 },
             new User { Id = 2, Name = "Alice", Age = 25 },
+            new User { Id = 3, Name = "Bob", Age = 35 },
+            new User { Id = 4, Name = "Emily", Age = 28 },
+            new User { Id = 5, Name = "Michael", Age = 40 },
+            new User { Id = 6, Name = "Sophia", Age = 22 },
+            new User { Id = 7, Name = "David", Age = 31 },
+            new User { Id = 8, Name = "Olivia", Age = 26 },
+            new User { Id = 9, Name = "James", Age = 33 },
+            new User { Id = 10, Name = "Emma", Age = 29 },
         };
     }
 
